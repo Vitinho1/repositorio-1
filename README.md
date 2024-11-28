@@ -1,2 +1,3 @@
-# TÓPICO 7  
-# Tópico 8
+# TÓPICO PRIMEIRO DO README 
+
+Aqui neste arquivo seremos mais perspicaz em realação ao assunto
